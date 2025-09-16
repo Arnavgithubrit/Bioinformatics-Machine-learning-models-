@@ -3,7 +3,7 @@ This project uses Machine learning models (SVM, Random Forest, and XGBoost) on P
 
 The standard metrics which were used during the model evaluation are
 Accuracy
-Sensitivigty
+Sensitivity
 Specificity
 ROC AUC
 F1 Score
